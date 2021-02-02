@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo5</string>
+    <string-array name="opciones">
+        <item>Bebidas</item>
+        <item>Sanwitch</item>
+        <item>Pizzas</item>
+    </string-array>
+</resources>
